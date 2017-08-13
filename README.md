@@ -2,6 +2,13 @@
 
 Some e-books I have read and recommended.
 
+## C
+
+- The C Programming Language
+- Pointers on C
+- Expert C Programming
+- C Traps and Pitfalls
+
 ## Python
 
 - A Byte of Python

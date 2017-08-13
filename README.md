@@ -9,6 +9,10 @@ Some e-books I have read and recommended.
 - Expert C Programming
 - C Traps and Pitfalls
 
+## C++
+
+- C++ Primer
+
 ## Python
 
 - A Byte of Python

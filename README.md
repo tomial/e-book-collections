@@ -2,6 +2,10 @@
 
 Some e-books I have read and recommended.
 
+## Computer Science
+
+- Computer Systems - A Programmer's Perspective
+
 ## Programming Languages
 
 ### C
@@ -21,10 +25,10 @@ Some e-books I have read and recommended.
 - Fluent Python
 - Python 源码剖析
 
-## Unix/Linux
+## UNIX/Linux
 
-- 鳥哥的 Linux 私房菜 
-- The Unix Programming Environment
+- 鳥哥的 Linux 私房菜
+- The UNIX Programming Environment
 
 ## Networks
 

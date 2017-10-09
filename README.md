@@ -18,6 +18,7 @@ Some e-books I have read and recommended.
 ### C++
 
 - C++ Primer
+- Effective C++
 
 ### Python
 

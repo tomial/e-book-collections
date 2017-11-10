@@ -25,6 +25,8 @@ Some e-books I have read and recommended.
 - A Byte of Python
 - Fluent Python
 - Python 源码剖析
+- Flask Web Development
+
 
 ## UNIX/Linux
 

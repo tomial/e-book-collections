@@ -10,6 +10,7 @@ Some e-books I have read and recommended.
 
 - Algorithms Fourth Edition
 - Data Structures and Algorithm Analysis in C++
+- Learning JavaScript Data Structures and Algorithms
 
 ## Programming Languages
 
@@ -31,6 +32,9 @@ Some e-books I have read and recommended.
 - Fluent Python
 - Python 源码剖析
 - Flask Web Development
+
+### JavaScript
+
 
 ## UNIX/Linux
 

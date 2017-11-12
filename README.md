@@ -4,7 +4,12 @@ Some e-books I have read and recommended.
 
 ## Computer Science
 
-- Computer Systems - A Programmer's Perspective
+- Computer Systems A Programmer's Perspective
+
+## Data Structures and Algorithms
+
+- Algorithms Fourth Edition
+- Data Structures and Algorithm Analysis in C++
 
 ## Programming Languages
 
@@ -26,7 +31,6 @@ Some e-books I have read and recommended.
 - Fluent Python
 - Python 源码剖析
 - Flask Web Development
-
 
 ## UNIX/Linux
 

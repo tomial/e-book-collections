@@ -1,14 +1,15 @@
 # e-book-collections
 
-Some e-books I have read and recommended.
+Some e-books I have read and recommend.
 
 ## Computer Science
 
-- Computer Systems A Programmer's Perspective
+- Code - The Hidden Language of Computer Hardware and Software
+- Computer Systems - A Programmer's Perspective
 
 ## Data Structures and Algorithms
 
-- Algorithms Fourth Edition
+- Algorithms
 - Data Structures and Algorithm Analysis in C++
 - Learning JavaScript Data Structures and Algorithms
 
@@ -35,15 +36,14 @@ Some e-books I have read and recommended.
 
 ### JavaScript
 
-
-## UNIX/Linux
-
-- 鳥哥的 Linux 私房菜
-- The UNIX Programming Environment
-
 ## Networks
 
 - Computer Networks
 - 图解 TCP/IP
 - 图解 HTTP
+
+## UNIX/Linux
+
+- 鳥哥的 Linux 私房菜
+- The UNIX Programming Environment
 

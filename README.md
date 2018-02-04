@@ -6,6 +6,7 @@ Some e-books I have read and recommend.
 
 - Code - The Hidden Language of Computer Hardware and Software
 - Computer Systems - A Programmer's Perspective
+- 程序员的自我修养 - 链接、装载与库
 
 ## Data Structures and Algorithms
 

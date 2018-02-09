@@ -14,6 +14,19 @@ Some e-books I have read and recommend.
 - Data Structures and Algorithm Analysis in C++
 - Learning JavaScript Data Structures and Algorithms
 
+## Networks
+
+- Computer Networks
+- 图解 TCP/IP
+- 图解 HTTP
+
+## UNIX/Linux
+
+- 鳥哥的 Linux 私房菜
+- Unix/Linux 编程实践教程
+- The UNIX Programming Environment
+- Advanced Programming in the UNIX Environment
+
 ## Programming Languages
 
 ### C
@@ -36,15 +49,4 @@ Some e-books I have read and recommend.
 - Flask Web Development
 
 ### JavaScript
-
-## Networks
-
-- Computer Networks
-- 图解 TCP/IP
-- 图解 HTTP
-
-## UNIX/Linux
-
-- 鳥哥的 Linux 私房菜
-- The UNIX Programming Environment
 
